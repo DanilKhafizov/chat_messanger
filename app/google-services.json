@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495323667684",
+    "project_id": "chat-app-919a0",
+    "storage_bucket": "chat-app-919a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495323667684:android:3df48ca508f29e53a2e0f1",
+        "android_client_info": {
+          "package_name": "com.linar.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrp4EGbbdh8Q8PnXqruo9m9d2JmBU9iks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
